@@ -22,5 +22,5 @@ def generate_cookie(name):
     print(message)
 
 
-user = input('Please enter your name:\n')
+user = input('Please enter your name:\n\n')
 generate_cookie(user)
