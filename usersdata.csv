@@ -1,6 +1,6 @@
-Username;Login email;Identifier;First name;Last name
-booker12;rachel@example.com;9012;Rachel;Booker
-grey07;;2070;Laura;Grey
-johnson81;;4081;Craig;Johnson
-jenkins46;mary@example.com;9346;Mary;Jenkins
-smith79;jamie@example.com;5079;Jamie;Smith
+id;username;email;first_name;last_name
+9012;booker12;rachel@example.com;Rachel;Booker
+2070;grey07;;Laura;Grey
+4081;johnson81;;Craig;Johnson
+9346;jenkins46;mary@example.com;Mary;Jenkins
+5079;smith79;jamie@example.com;Jamie;Smith
